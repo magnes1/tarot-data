@@ -1,0 +1,26 @@
+{
+  "arcana": [
+    {
+      "name": "Major Arcana",
+      "number_of_cards": 22,
+      "themes": [
+        "Life Lessons",
+        "Spiritual Growth",
+        "Major Influences",
+        "Turning Points"
+      ],
+      "description": "The Major Arcana represents significant events, spiritual lessons, and the overarching journey of life. These cards reflect major themes and transformational moments that shape an individual's path."
+    },
+    {
+      "name": "Minor Arcana",
+      "number_of_cards": 56,
+      "themes": [
+        "Everyday Challenges",
+        "Personal Growth",
+        "Emotions",
+        "Practical Matters"
+      ],
+      "description": "The Minor Arcana focuses on the smaller, day-to-day aspects of life. It highlights emotions, decisions, and challenges in the areas of relationships, creativity, intellect, and material wealth."
+    }
+  ]
+}
