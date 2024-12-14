@@ -1,0 +1,105 @@
+{
+  "numbers": [
+    {
+      "number": 1,
+      "name": "Ace",
+      "themes": [
+        "New Beginnings",
+        "Potential",
+        "Opportunities",
+        "Inspiration"
+      ],
+      "description": "Aces represent the purest energy of the suit, signaling new beginnings, inspiration, and opportunities waiting to be embraced."
+    },
+    {
+      "number": 2,
+      "themes": [
+        "Balance",
+        "Partnership",
+        "Duality",
+        "Choices"
+      ],
+      "description": "Twos signify balance, duality, and the need to make decisions or foster partnerships."
+    },
+    {
+      "number": 3,
+      "themes": [
+        "Growth",
+        "Expansion",
+        "Creativity",
+        "Collaboration"
+      ],
+      "description": "Threes represent growth, creativity, and collaboration, often highlighting teamwork or the first steps toward achieving goals."
+    },
+    {
+      "number": 4,
+      "themes": [
+        "Stability",
+        "Structure",
+        "Foundation",
+        "Security"
+      ],
+      "description": "Fours bring stability and structure, focusing on creating a solid foundation in the respective area of life."
+    },
+    {
+      "number": 5,
+      "themes": [
+        "Conflict",
+        "Change",
+        "Challenges",
+        "Instability"
+      ],
+      "description": "Fives introduce conflict, challenges, and change. They often indicate struggles or growth opportunities through hardship."
+    },
+    {
+      "number": 6,
+      "themes": [
+        "Harmony",
+        "Support",
+        "Communication",
+        "Resolution"
+      ],
+      "description": "Sixes are about harmony, resolution, and progress. They reflect balance and overcoming challenges for peace and stability."
+    },
+    {
+      "number": 7,
+      "themes": [
+        "Reflection",
+        "Spiritual Growth",
+        "Determination",
+        "Assessment"
+      ],
+      "description": "Sevens call for introspection, perseverance, and deeper understanding, often requiring a pause to assess progress or values."
+    },
+    {
+      "number": 8,
+      "themes": [
+        "Power",
+        "Success",
+        "Movement",
+        "Discipline"
+      ],
+      "description": "Eights are about mastery, power, and success. They suggest discipline and focused efforts toward goals."
+    },
+    {
+      "number": 9,
+      "themes": [
+        "Fulfillment",
+        "Wisdom",
+        "Completion",
+        "Reflection"
+      ],
+      "description": "Nines represent the near completion of a journey. They highlight wisdom gained and moments of reflection before the final step."
+    },
+    {
+      "number": 10,
+      "themes": [
+        "Completion",
+        "Endings",
+        "Renewal",
+        "Achievement"
+      ],
+      "description": "Tens signify the culmination of efforts, completion of cycles, and the transition into a new phase of life or opportunity."
+    }
+  ]
+}

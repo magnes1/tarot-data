@@ -1,0 +1,52 @@
+{
+  "suits": [
+    {
+      "name": "Cups",
+      "element": "Water",
+      "themes": [
+        "Emotions",
+        "Relationships",
+        "Intuition",
+        "Love",
+        "Spirituality"
+      ],
+      "description": "Cups deal with matters of the heart, emotions, and relationships. They reflect how we connect with ourselves and others on an emotional and spiritual level."
+    },
+    {
+      "name": "Wands",
+      "element": "Fire",
+      "themes": [
+        "Passion",
+        "Creativity",
+        "Inspiration",
+        "Ambition",
+        "Energy"
+      ],
+      "description": "Wands focus on inspiration, action, and personal growth. They reflect creativity, ambition, and the energy required to bring ideas to life."
+    },
+    {
+      "name": "Swords",
+      "element": "Air",
+      "themes": [
+        "Intellect",
+        "Thoughts",
+        "Conflict",
+        "Communication",
+        "Decisions"
+      ],
+      "description": "Swords represent the realm of intellect and logic. They often highlight challenges, mental clarity, and the ability to communicate and make decisions."
+    },
+    {
+      "name": "Pentacles",
+      "element": "Earth",
+      "themes": [
+        "Material Wealth",
+        "Career",
+        "Finances",
+        "Health",
+        "Stability"
+      ],
+      "description": "Pentacles are associated with the material world. They focus on finances, work, health, and creating a stable and secure environment."
+    }
+  ]
+}
