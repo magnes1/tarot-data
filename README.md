@@ -1,0 +1,2 @@
+# tarot-data
+tarot database
