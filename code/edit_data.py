@@ -27,8 +27,10 @@ df = pd.read_sql_query(f"SELECT * FROM tarot_cards", connection)
 print(df)
 
 df["arcana"] = df["suit"].apply(
-    lambda x: "major arcana" if "major arcana" in x else "minor arcana"
+    lambda x: "Major Arcana" if "major_arcana" in x else "Minor Arcana"
 )
+
+df["suit"] = df["suit"].str.capitalize()
   
 print(df)
 df.to_sql("tarot_cards", connection, if_exists='replace', index=False)
