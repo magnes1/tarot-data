@@ -1,0 +1,92 @@
+[
+    {
+        "name":"Ace of Cups",
+        "upright":"Love, new relationships, compassion, creativity",
+        "reversed":"Self-love, repressed emotions, blocked creativity",
+        "suit":"Cups",
+        "arcana":"Minor Arcana",
+        "number":"1",
+        "img":"c01.jpg"
+    },
+    {
+        "name":"Ace of Pentacles",
+        "upright":"A new financial or career opportunity, manifestation, abundance",
+        "reversed":"Lost opportunity, lack of planning and foresight",
+        "suit":"Pentacles",
+        "arcana":"Minor Arcana",
+        "number":"1",
+        "img":"p01.jpg"
+    },
+    {
+        "name":"Ace of Swords",
+        "upright":"Breakthroughs, new ideas, clarity, success",
+        "reversed":"Inner clarity, clouded judgment, rethinking an idea",
+        "suit":"Swords",
+        "arcana":"Minor Arcana",
+        "number":"1",
+        "img":"s01.jpg"
+    },
+    {
+        "name":"Ace of Wands",
+        "upright":"Inspiration, new opportunities, growth, potential",
+        "reversed":"Delays, lack of direction, distractions",
+        "suit":"Wands",
+        "arcana":"Minor Arcana",
+        "number":"1",
+        "img":"w01.jpg"
+    },
+    {
+        "name":"Death",
+        "upright":"Endings, change, transformation, transition",
+        "reversed":"Resistance to change, personal transformation, inner purging",
+        "suit":"Major_arcana",
+        "arcana":"Major Arcana",
+        "number":"13",
+        "img":"m13.jpg"
+    },
+    {
+        "name":"Eight of Cups",
+        "upright":"Disappointment, abandonment, withdrawal, escapism",
+        "reversed":"Trying again, indecision, aimless drifting, walking away",
+        "suit":"Cups",
+        "arcana":"Minor Arcana",
+        "number":"8",
+        "img":"c08.jpg"
+    },
+    {
+        "name":"Eight of Pentacles",
+        "upright":"Apprenticeship, repetitive tasks, mastery, skill development",
+        "reversed":"Self-development, perfectionism, misdirected activity",
+        "suit":"Pentacles",
+        "arcana":"Minor Arcana",
+        "number":"8",
+        "img":"p08.jpg"
+    },
+    {
+        "name":"Eight of Swords",
+        "upright":"Negative thoughts, self-imposed restrictions, imprisonment",
+        "reversed":"Self-limiting beliefs, inner critic, releasing negative thoughts",
+        "suit":"Swords",
+        "arcana":"Minor Arcana",
+        "number":"8",
+        "img":"s08.jpg"
+    },
+    {
+        "name":"Eight of Wands",
+        "upright":"Movement, fast-paced change, action, alignment, air travel",
+        "reversed":"Delays, frustration, resisting change, internal alignment",
+        "suit":"Wands",
+        "arcana":"Minor Arcana",
+        "number":"8",
+        "img":"w08.jpg"
+    },
+    {
+        "name":"Five of Cups",
+        "upright":"Regret, failure, disappointment, pessimism",
+        "reversed":"Personal setbacks, self-forgiveness, moving on",
+        "suit":"Cups",
+        "arcana":"Minor Arcana",
+        "number":"5",
+        "img":"c05.jpg"
+    }
+]
