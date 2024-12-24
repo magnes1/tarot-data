@@ -53,12 +53,12 @@ print(combined_df.head())  # Display the first few rows
 connection = sqlite3.connect("data/tarot.db")
 
 # Write Suits DataFrame to SQLite database
-combined_df.to_sql('suits', connection, if_exists='replace', index=False)
+combined_df.to_sql('tarot_cards', connection, if_exists='replace', index=False)
 
-print("Suits DataFrame written to SQLite database successfully.")
+print("tarot_cards DataFrame written to SQLite database successfully.")
 
 # Verify the data
-result = pd.read_sql("SELECT * FROM suits", connection)
+result = pd.read_sql("SELECT * FROM tarot_cards", connection)
 print(result)
 
 # Close the connection
