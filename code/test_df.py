@@ -2,7 +2,6 @@ import os
 import pandas as pd
 import sqlite3 as sqlite3
 
-
 # Create or connect to SQLite database
 connection = sqlite3.connect("data/tarot.db")
 

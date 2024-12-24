@@ -4,7 +4,6 @@ import sqlite3 as sqlite3
 # Configure Pandas to display all columns
 pd.set_option('display.max_columns', None)
 
-major_arcana = "major_arcana.json"
 arcana_def = "arcana_def.json"
 numbers_def = "numbers_def.json"
 images = "tarot_images.json"
