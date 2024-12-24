@@ -6,6 +6,7 @@ images
 arcana_def
 suits_def
 tarot_cards
+master
 -------------------------------------------------
 Table: numbers_def
 Number of Observations: 10
@@ -48,4 +49,15 @@ upright     object
 reversed    object
 suit        object
 arcana      object
+----------------------------------------------------------
+Table: master
+Number of Observations: 78
+Columns:
+name        object
+upright     object
+reversed    object
+suit        object
+arcana      object
+number      object
+img         object
 ----------------------------------------------------------
