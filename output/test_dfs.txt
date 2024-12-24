@@ -1,0 +1,51 @@
+Date: 2024-12-24
+-------------------------------------------------
+Tables in the database:
+numbers_def
+images
+arcana_def
+suits_def
+tarot_cards
+-------------------------------------------------
+Table: numbers_def
+Number of Observations: 10
+Columns:
+number          int64
+name           object
+themes         object
+description    object
+----------------------------------------------------------
+Table: images
+Number of Observations: 78
+Columns:
+name      object
+number    object
+arcana    object
+suit      object
+img       object
+----------------------------------------------------------
+Table: arcana_def
+Number of Observations: 2
+Columns:
+arcana             object
+number_of_cards     int64
+themes             object
+description        object
+----------------------------------------------------------
+Table: suits_def
+Number of Observations: 4
+Columns:
+suit           object
+element        object
+themes         object
+description    object
+----------------------------------------------------------
+Table: tarot_cards
+Number of Observations: 78
+Columns:
+name        object
+upright     object
+reversed    object
+suit        object
+arcana      object
+----------------------------------------------------------
