@@ -60,8 +60,6 @@ def json_to_sqlite(data_dir, json_file, table_name, db_name = "data/tarot.db"):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-
-major_arcana = "major_arcana.json"
 arcana_def = "arcana_def.json"
 numbers_def = "numbers_def.json"
 images = "tarot_images.json"
@@ -71,7 +69,6 @@ data_dir = "data/raw_data"
 
 # Example Usage
 if __name__ == "__main__":
-    json_to_sqlite(data_dir, major_arcana, table_name = "major_arcana")
     json_to_sqlite(data_dir, arcana_def, table_name = "arcana_def")
     json_to_sqlite(data_dir, suits_def, table_name = "suits_def")
     json_to_sqlite(data_dir, numbers_def, table_name = "numbers_def")
